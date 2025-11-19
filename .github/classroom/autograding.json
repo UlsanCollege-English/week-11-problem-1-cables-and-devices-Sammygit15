@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "HW01 Tests",
+      "setup": "",
+      "run": "python -m pytest -q",
+      "input": "",
+      "output": "",
+      "timeout": 20000,
+      "points": 10
+    }
+  ],
+  "version": 0
+}
